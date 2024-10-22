@@ -7,7 +7,7 @@ import dollarSign from './assets/icons/dollar-sign.svg'
 import checkCircle from './assets/icons/check-circle.svg'
 import logo from './assets/imgs/logo.svg'
 
-const COINAPI_API_KEY = 'YOUR_API_KEY'
+const COINAPI_API_KEY = '53B31F64-D43F-4BFA-A0D5-6ADC9C1A3040'
 
 export function App() {
     const [assets, setAssets] = useState([])
